@@ -37,3 +37,17 @@ ________________________________________________
   zeropointsecurity
   MasterMind
   Hack4u
+
+
+>>> Tips para aprobar OSCP <<<
+
+1) Comprometer una máquina parecida a las del OSCP (en HackTheBox, TryHackMe, VulnHub, etc.)
+2) Entender que  se esta  haciendo en cada momento
+3) Documentar todo el proceso en el formato que se prefiera: texto, video, etc.
+4) Volver al paso 1 (parar solo cuando se tenga la suficiente seguridad y apuntarse al PWK/OSCP)
+5) Referencias  utiles:
+    - Maquinas parecidas a las del OSCP: https://i.imgur.com/ozlPjw0.png
+    - GitBook con notas interesantes: https://takito1812.gitbook.io/oscp/
+    - Plantilla en Word para la parte de reportes: https://github.com/whoisflynn/OSCP-Exam-Report-Template
+    - Software para realizar Screenshots: https://getgreenshot.org/
+    - HackTricks: https://book.hacktricks.xyz/
