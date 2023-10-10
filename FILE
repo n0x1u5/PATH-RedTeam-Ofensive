@@ -1,20 +1,52 @@
 ¿HOW TO LEARN ABOUT RED TEAM / ETHICAL HACKING?
 ________________________________________________
 
+>>> Top Ethical Hacking/Red Team certifications <<<
+
+All: https://pauljerimy.com/security-certification-roadmap/
+
+- Easy
+  · CPHE
+  · CEH
+  · CSIO
+  
+- Medium
+  · CHEE
+  · eJPTv2
+  · PNTP
+  · CRTP
+  · CRTO 1
+  · GPEN
+  · CEH Master
+  · CPENT
+
+- Hard
+  · CRTO 2
+  · OSCP
+  · CRTE
+  · eCPPTv2
+  · OSEP
+  
+- Extreme
+  · eCPPTX
+  · OSEE
+  · OSED
+  · eWPTX
+
 >>> Practice <<<
 
-  TryHackMe 
-  NetInVM
-  Pentestit
-  HackTheBox
-  VulnHub
-  bwapp
-  Atenea
-  HackThisSite
-  OverTheWire
-  iHackLabs
-  Pentesterlab
-  labs.gf0s.com
+  · TryHackMe 
+  · NetInVM
+  · Pentestit
+  · HackTheBox
+  · VulnHub
+  · bwapp
+  · Atenea
+  · HackThisSite
+  · OverTheWire
+  · iHackLabs
+  · Pentesterlab
+  · labs.gf0s.com
       
       More in: 
           https://esgeeks.com/sitios-web-hackear-legalmente/ y https://www.blog.andaluciaesdigital.es/sitios-para-practicar-y-aprender-hacking/
@@ -22,21 +54,21 @@ ________________________________________________
 
 >>> Courses / Academies <<<
 
-  eLearnSecurity
-  TCM Security
-  IgniteTechnologies
-  cyberHunterAcademy
-  BackTrackAcademy
-  TheSecuritySentinel
-  Udemy
-  Comunix
-  Securizame
-  Platzi
-  HackBySecurity
-  pentesteracademy
-  zeropointsecurity
-  MasterMind
-  Hack4u
+  · eLearnSecurity
+  · TCM Security
+  · IgniteTechnologies
+  · cyberHunterAcademy
+  · BackTrackAcademy
+  · TheSecuritySentinel
+  · Udemy
+  · Comunix
+  · Securizame
+  · Platzi
+  · HackBySecurity
+  · pentesteracademy
+  · zeropointsecurity
+  · MasterMind
+  · Hack4u
 
 
 >>> Tips para aprobar OSCP <<<
