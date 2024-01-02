@@ -32,7 +32,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · eCPPTX
   · OSEE
   · OSED
-  · OSCE3
+  · OSCE³
   · eWPTX
 
 >>> Practice <<<
@@ -85,3 +85,30 @@ All: https://pauljerimy.com/security-certification-roadmap/
     - Plantilla en Word para la parte de reportes: https://github.com/whoisflynn/OSCP-Exam-Report-Template
     - Software para realizar Screenshots: https://getgreenshot.org/
     - HackTricks: https://book.hacktricks.xyz/
+
+>>> Tryhackme por fases de pentesting <<<
+
+[-] Recon/Enum
+		
+	-Network Security Module
+
+[-] Explotacion
+		
+	-Recent Threats Module, Windows Exploitation Basics Module, Network Exploitation Basics Module, Red Team Fundamentals Module, Vulnerability Research Module
+
+[-] Active Directory
+
+	-Compromising Active Directory, Threat Emulation, Holo, Throwback
+
+[-] Web
+		
+	-BupSuite Module, Authetication Bypass, Owasp Top 10
+
+[-] Post-Explotacion
+		
+	-Shells and Privilege Escalation Module, Post Compromise Module
+		 
+[-] Pivoting 
+
+	-Borderlands, Unbaked Pie, Wreath, Lataral Movement and Pivoting, Ligolo-ng
+		
