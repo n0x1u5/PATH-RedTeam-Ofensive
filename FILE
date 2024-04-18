@@ -87,29 +87,58 @@ All: https://pauljerimy.com/security-certification-roadmap/
     - Software para realizar Screenshots: https://getgreenshot.org/
     - HackTricks: https://book.hacktricks.xyz/
 
+
 >>> Tryhackme por fases de pentesting <<<
 
-[-] Recon/Enum
+● Recon/Enum
 		
 	-Network Security Module
 
-[-] Explotacion
+● Explotacion
 		
 	-Recent Threats Module, Windows Exploitation Basics Module, Network Exploitation Basics Module, Red Team Fundamentals Module, Vulnerability Research Module
 
-[-] Active Directory
+● Active Directory
 
 	-Compromising Active Directory, Threat Emulation, Holo, Throwback
 
-[-] Web
+● Web
 		
 	-BupSuite Module, Authetication Bypass, Owasp Top 10
 
-[-] Post-Explotacion
+● Post-Explotacion
 		
 	-Shells and Privilege Escalation Module, Post Compromise Module
 		 
-[-] Pivoting 
+● Pivoting 
 
 	-Borderlands, Unbaked Pie, Wreath, Lataral Movement and Pivoting, Ligolo-ng
+
+
+
+
+>>> HackTheBox Academy por fases de pentesting <<<
+
+
+
+● Enumeración
+
+	Nmap -- https://academy.hackthebox.com/module/details/19
+	Protocol Enumeration -- https://academy.hackthebox.com/module/details/112
+
+● Explotación
+
+	Metasploit Framework - https://academy.hackthebox.com/module/details/39
+	Attacking Common Services - https://academy.hackthebox.com/module/details/116
+	Password Attacks - https://academy.hackthebox.com/module/details/147
+	Login Bruteforcing - https://academy.hackthebox.com/module/details/57
+	File Upload Attacks - https://academy.hackthebox.com/module/details/136
+	File Inclusion - https://academy.hackthebox.com/module/details/23
+	XSS - https://academy.hackthebox.com/module/details/103
+	SQLMap - https://academy.hackthebox.com/module/details/58
+
+● Post-Explotación
+
+	Linux Privilege Escalation - https://academy.hackthebox.com/module/details/51
+	Windows Privilege Escalation - https://academy.hackthebox.com/module/details/67
 		
