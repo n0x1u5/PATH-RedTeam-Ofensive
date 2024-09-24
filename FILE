@@ -7,15 +7,15 @@ All: https://pauljerimy.com/security-certification-roadmap/
 
 - Easy
   · CPHE
-  · CEH
+  · CEH -- recomendada
   · CSIO
   
 - Medium
   · CHEE
-  · eJPTv2
+  · eJPTv2 -- recomendada
   · PJTP
   · PNTP
-  · CRTP
+  · CRTP -- recomendada
   · CRTO 1
   · GPEN
   · CEH Master
@@ -23,10 +23,10 @@ All: https://pauljerimy.com/security-certification-roadmap/
 
 - Hard
   · CRTO 2
-  · OSCP
+  · OSCP -- imprescindible
   · CPTS
   · CRTE
-  · eCPPTv2
+  · eCPPTv2 -- recomendada
   · OSEP
   
 - Extreme
@@ -75,6 +75,42 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · wifichallengelab
 
 
+>>> Tips para aprobar eJPTv2 <<<
+
+1) Realizar el propio curso de la academia INE de preparación para el eJPTv2 (te dan acceso al comprar el voucher del examen)
+2) Lee otras reviews del eJPTv2 de otras personas
+3) Practicar en plataformas de CTF (TryHackMe, HackTheBox, VulnHub) realizando máquinas como:
+	-TryHackme
+		Blue
+    		Ice
+    		Blaster
+    		Pentesting Fundamentals
+    		Ignite
+    		Blog
+    		Startup
+    		Chill Hack
+    		Bolt
+    		VulnNet: Internal
+    		ColddBox: Easy
+
+	-HackTheBox
+		Union
+    		Validation
+   		Return
+    		Goodgames
+
+	-VulnHub
+		Dark Hole 1
+    		Dark Hole 2
+    		Symfonos 1
+    		Election 1
+
+4) Enumerar, enumerar y enumerar cómo si no hubiera un mañana. Apunta todo lo que veas interesante, el 50% del examen se saca gracias a enumerar bien todo.
+5) Utiliza varias herramientas y no te quedes con el primer resultado.
+6) Google es tu mejor amigo.
+7) Paciencia, tranquilidad, tienes 48 horas para hacer el examen.
+
+
 >>> Tips para aprobar OSCP <<<
 
 1) Comprometer una máquina parecida a las del OSCP (en HackTheBox, TryHackMe, VulnHub, etc.)
@@ -87,6 +123,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
     - Plantilla en Word para la parte de reportes: https://github.com/whoisflynn/OSCP-Exam-Report-Template
     - Software para realizar Screenshots: https://getgreenshot.org/
     - HackTricks: https://book.hacktricks.xyz/
+
 
 
 >>> Tryhackme por fases de pentesting <<<
@@ -119,8 +156,6 @@ All: https://pauljerimy.com/security-certification-roadmap/
 
 
 >>> HackTheBox Academy por fases de pentesting <<<
-
-
 
 ● Enumeración
 
