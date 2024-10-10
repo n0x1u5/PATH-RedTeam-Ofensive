@@ -12,9 +12,8 @@ All: https://pauljerimy.com/security-certification-roadmap/
   
 - Medium
   · CHEE
-  · eJPTv2 -- recomendada
-  · PJTP
-  · PNTP
+  · eJPTv2 -- imprescindible
+  · PJPT
   · CRTP -- recomendada
   · CRTO 1
   · GPEN
@@ -24,6 +23,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
 - Hard
   · CRTO 2
   · OSCP -- imprescindible
+  · PNPT
   · CPTS
   · CRTE
   · eCPPTv2 -- recomendada
