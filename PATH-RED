@@ -13,7 +13,8 @@ All: https://pauljerimy.com/security-certification-roadmap/
 ♦ Medium
   · CHEE
   · eJPTv2 -- imprescindible
-  · PJPT -- recomendada
+  · PT1 -- recomendada
+  · PJPT
   · CRTP -- recomendada
   · CRTO 1
   · GPEN
@@ -41,97 +42,76 @@ All: https://pauljerimy.com/security-certification-roadmap/
 
 1. Pentesting Web
 
-eWPT (eLearnSecurity Web Application Penetration Tester)
-
-eWPTX (versión avanzada de eWPT)
-
-OSWA (OffSec Web Assessor)
-
-GWAPT (GIAC Web Application Penetration Tester – SANS)
-
-Burp Suite Certified Practitioner (PortSwigger)
+  · eWPT (eLearnSecurity Web Application Penetration Tester)
+  · eWPTX (versión avanzada de eWPT)
+  · OSWA (OffSec Web Assessor)
+  · GWAPT (GIAC Web Application Penetration Tester – SANS)
+  · Burp Suite Certified Practitioner (PortSwigger)
 
 2. Pentesting de Redes
-OSCP (OffSec Certified Professional) → enfoque general con mucha red.
 
-eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)
-
-CompTIA PenTest+
-
-CEH (Certified Ethical Hacker – generalista pero con base en redes)
+  · OSCP (OffSec Certified Professional) → enfoque general con mucha red.
+  · eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)
+  · CompTIA PenTest+
+  · CEH (Certified Ethical Hacker – generalista pero con base en redes)
 
 3. Pentesting de Sistemas
-OSCP
 
-OSEP (OffSec Experienced Pentester) → más enfoque en evasión de EDR y AD.
-
-eCPPTv2
-
-CRTP (Certified Red Team Professional) → muy centrada en sistemas Windows y AD.
+  · OSCP
+  · OSEP (OffSec Experienced Pentester) → más enfoque en evasión de EDR y AD.
+  · eCPPTv2
+  · CRTP (Certified Red Team Professional) → muy centrada en sistemas Windows y AD.
 
 4. Pentesting en la Nube
-CRTO (Certified Red Team Operator) → uso de C2s en entornos cloud.
 
-CCP - Azure Security (o AWS Security Specialty)
-
-SANS SEC588 (GCWN) o GCSA (GIAC Cloud Security Automation)
-
-PentesterLab Cloud Path (curso práctico)
+  · CCP - Azure Security (o AWS Security Specialty)
+  · SANS SEC588 (GCWN) o GCSA (GIAC Cloud Security Automation)
+  · PentesterLab Cloud Path (curso práctico)
 
 5. Pentesting de Aplicaciones Móviles
-eMAPT (eLearnSecurity Mobile Application Penetration Tester)
 
-OSMA (OffSec Mobile Assessor – aún en desarrollo)
-
-SANS GMOB (GIAC Mobile Device Security Analyst)
+  · eMAPT (eLearnSecurity Mobile Application Penetration Tester)
+  · OSMA (OffSec Mobile Assessor – aún en desarrollo)
+  · SANS GMOB (GIAC Mobile Device Security Analyst)
 
 6. Ingeniería Social
-SEPP (Social Engineering Professional Practitioner)
 
-Certified Red Team Professional (CRTP) → incluye técnicas de phishing.
-
-SECTF from DEF CON (reconocido, aunque no es una cert formal como tal)
+  · SEPP (Social Engineering Professional Practitioner)
+  · Certified Red Team Professional (CRTP) → incluye técnicas de phishing.
+  · SECTF from DEF CON (reconocido, aunque no es una cert formal como tal)
 
 7. Red Team / Simulaciones Avanzadas
-CRTO (Certified Red Team Operator) – muy práctico y orientado a C2.
 
-CRTP / CRTE (más técnico, enfocado en AD y evasión)
-
-OSCE3 (conjunto de 3 certs avanzadas de OffSec: OSEP, OSWE, OSED)
-
-Red Team Ops II (CRTO2) – ofensiva avanzada con detección evasiva.
+  · CRTO (Certified Red Team Operator) – muy práctico y orientado a C2.
+  · CRTP / CRTE (más técnico, enfocado en AD y evasión)
+  · OSCE3 (conjunto de 3 certs avanzadas de OffSec: OSEP, OSWE, OSED)
+  · Red Team Ops II (CRTO2) – ofensiva avanzada con detección evasiva.
 
 8. IoT / Hardware Hacking
-Practical IoT Hacking Certification (INE)
 
-OffSec EXP-301 (OffSec Exploit Developer – si te interesa reversing)
-
-GREM (GIAC Reverse Engineering Malware – más orientado a binarios)
-
-Cursos de HACKIN9, PENTESTACADEMY, etc., aunque no siempre certificados oficiales.
+  · Practical IoT Hacking Certification (INE)
+  · OffSec EXP-301 (OffSec Exploit Developer – si te interesa reversing)
+  · GREM (GIAC Reverse Engineering Malware – más orientado a binarios)
+  · Cursos de HACKIN9, PENTESTACADEMY, etc., aunque no siempre certificados oficiales.
 
 9. Pentesting de APIs
-APIsec University – Certified API Security Specialist
 
-Practical API Hacking (Bugcrowd / PentesterLab / PortSwigger)
-
-OWASP API Top 10 Training Badges
+  · APIsec University – Certified API Security Specialist
+  · Practical API Hacking (Bugcrowd / PentesterLab / PortSwigger)
+  · OWASP API Top 10 Training Badges
 
 10. Active Directory
-CRTP (muy recomendable y práctico)
 
-CRTE (nivel avanzado de AD y evasión defensiva)
-
-OSCP / OSEP (cubren técnicas de explotación en AD)
-
-ADSecurity.org labs (aunque no es una certificación, es muy valorado)
+  · CRTP (muy recomendable y práctico)
+  · CRTE (nivel avanzado de AD y evasión defensiva)
+  · OSCP / OSEP (cubren técnicas de explotación en AD)
+  · ADSecurity.org labs (aunque no es una certificación, es muy valorado)
 
 11. SCADA/ICS
-GICSP (GIAC Global Industrial Cyber Security Professional)
 
-ISA/IEC 62443 certifications
-
-ICS410 (ICS/SCADA Security Essentials) – por SANS
+  · GICSP (GIAC Global Industrial Cyber Security Professional)
+  · ISA/IEC 62443 certifications
+  · ICS410 (ICS/SCADA Security Essentials) – por SANS
 
 >>> Practice <<<
 
