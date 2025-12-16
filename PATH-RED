@@ -131,8 +131,8 @@ All: https://pauljerimy.com/security-certification-roadmap/
       More in: 
           https://esgeeks.com/sitios-web-hackear-legalmente/ y https://www.blog.andaluciaesdigital.es/sitios-para-practicar-y-aprender-hacking/
           https://noticiasseguridad.com/tutoriales/50-sitios-de-ctf-y-pentesting-para-practicar-sus-habilidades-de-hacking-y-ciberseguridad-en-2021/
-	  https://docs.google.com/spreadsheets/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/edit?gid=0#gid=0
-	  https://github.com/Zeyad-Azima/Offensive-Resources/blob/main/img/OffensiveResourcesV3.png
+	  	  https://docs.google.com/spreadsheets/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/edit?gid=0#gid=0
+	      https://github.com/Zeyad-Azima/Offensive-Resources/blob/main/img/OffensiveResourcesV3.png
 
 >>> Courses / Academies <<<
 
@@ -165,28 +165,28 @@ All: https://pauljerimy.com/security-certification-roadmap/
 3) Practicar en plataformas de CTF (TryHackMe, HackTheBox, VulnHub) realizando máquinas como:
 	-TryHackme
 		Blue
-    		Ice
-    		Blaster
-    		Pentesting Fundamentals
-    		Ignite
-    		Blog
-    		Startup
-    		Chill Hack
-    		Bolt
-    		VulnNet: Internal
-    		ColddBox: Easy
+    	Ice
+    	Blaster
+    	Pentesting Fundamentals
+    	Ignite
+    	Blog
+    	Startup
+    	Chill Hack
+    	Bolt
+    	VulnNet: Internal
+    	ColddBox: Easy
 
 	-HackTheBox
 		Union
-    		Validation
+    	Validation
    		Return
-    		Goodgames
+    	Goodgames
 
 	-VulnHub
 		Dark Hole 1
-    		Dark Hole 2
-    		Symfonos 1
-    		Election 1
+    	Dark Hole 2
+    	Symfonos 1
+    	Election 1
 
 4) Enumerar, enumerar y enumerar cómo si no hubiera un mañana. Apunta todo lo que veas interesante, el 50% del examen se saca gracias a enumerar bien todo.
 5) Utiliza varias herramientas y no te quedes con el primer resultado.
