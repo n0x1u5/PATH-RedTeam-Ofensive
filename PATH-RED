@@ -29,10 +29,12 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · CRTE
   · GXPN
   · eCPPTv2 -- recomendada
+  · CRTA
   
 ♦ Extreme
   · eCPPTX
   · OSEE
+  · CRTS V2
   · OSED
   · OSEP -- recomendada
   · OSCE³
@@ -86,6 +88,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · CRTP / CRTE (más técnico, enfocado en AD y evasión)
   · OSCE3 (conjunto de 3 certs avanzadas de OffSec: OSEP, OSWE, OSED)
   · Red Team Ops II (CRTO2) – ofensiva avanzada con detección evasiva.
+  · CRTA (Red Team Analyst) 
 
 8. IoT / Hardware Hacking
 
@@ -156,6 +159,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · MasterMind
   · Hack4u
   · wifichallengelab
+  · Cyberwarfare.live
 
 
 >>> Tips para aprobar eJPTv2 <<<
