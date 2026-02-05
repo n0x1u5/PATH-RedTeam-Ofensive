@@ -205,7 +205,11 @@ All: https://pauljerimy.com/security-certification-roadmap/
 3) Documentar todo el proceso en el formato que se prefiera: texto, video, etc.
 4) Volver al paso 1 (parar solo cuando se tenga la suficiente seguridad y apuntarse al PWK/OSCP)
 5) Referencias  utiles:
-    - Maquinas parecidas a las del OSCP: https://i.imgur.com/ozlPjw0.png
+    - Maquinas parecidas a las del OSCP: 
+			https://i.imgur.com/ozlPjw0.png
+			https://0xdf.gitlab.io/cheatsheets/offsec
+			https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997
+			https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
     - GitBook con notas interesantes: https://takito1812.gitbook.io/oscp/
     - Plantilla en Word para la parte de reportes: https://github.com/whoisflynn/OSCP-Exam-Report-Template
     - Software para realizar Screenshots: https://getgreenshot.org/
