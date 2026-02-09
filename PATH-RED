@@ -15,6 +15,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · eJPTv2 -- imprescindible
   · PT1 -- recomendada
   · PJPT
+  ·	CPPJ
   · CRTO 1
   · GPEN
   · CEH Master
@@ -27,6 +28,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · CRTP -- recomendada
   · CPTS -- recomendada
   · CRTE
+  · RTOD-100
   · GXPN
   · eCPPTv2 -- recomendada
   · CRTA
@@ -38,6 +40,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · OSED
   · OSEP -- recomendada
   · OSCE³
+  · RTOD-200
   · eWPTX
 
 >>> Top Ethical Hacking/Red Team certifications BY PATH <<<
@@ -89,6 +92,8 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · OSCE3 (conjunto de 3 certs avanzadas de OffSec: OSEP, OSWE, OSED)
   · Red Team Ops II (CRTO2) – ofensiva avanzada con detección evasiva.
   · CRTA (Red Team Analyst) 
+  · RTOD-100
+  · RTOD-200
 
 8. IoT / Hardware Hacking
 
