@@ -67,11 +67,12 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · eCPPTv2
   · CRTP (Certified Red Team Professional) → muy centrada en sistemas Windows y AD.
 
-4. Pentesting en la Nube
+4. Pentesting Cloud
 
   · CCP - Azure Security (o AWS Security Specialty)
   · SANS SEC588 (GCWN) o GCSA (GIAC Cloud Security Automation)
   · PentesterLab Cloud Path (curso práctico)
+		muy recomendadas --> https://hacktricks-training.com/courses/
 
 5. Pentesting de Aplicaciones Móviles
 
@@ -157,6 +158,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · SpartanCybersec
   · Comunix
   · Securizame
+  · Hacktricks-training
   · Platzi
   · HackBySecurity
   · pentesteracademy
