@@ -14,7 +14,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · CHEE
   · eJPTv2 -- imprescindible
   · PT1 -- recomendada
-  · PJPT
+  · PJPT -- recomendada
   ·	CPPJ
   · CRTO 1
   · GPEN
@@ -24,7 +24,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
 ♦ Hard
   · CRTO 2 (CRTL)
   · OSCP -- imprescindible
-  · PNPT
+  · PNPT -- -- recomendada
   · CRTP -- recomendada
   · CPTS -- recomendada
   · CRTE
@@ -121,6 +121,10 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · GICSP (GIAC Global Industrial Cyber Security Professional)
   · ISA/IEC 62443 certifications
   · ICS410 (ICS/SCADA Security Essentials) – por SANS
+
+12. IA/AI
+
+  · Practical AI Pentest Associate (PAPA)
 
 >>> Practice <<<
 
