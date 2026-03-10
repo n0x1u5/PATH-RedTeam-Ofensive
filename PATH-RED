@@ -43,6 +43,40 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · RTOD-200
   · eWPTX
 
+>>> Ranking real para empezar (By ChatGPT, Gemini)
+
+♦ Para empezar bien
+
+  1 - eJPT
+  2 - PNPT
+  3 - OSCP
+*INE define eJPT como certificación junior, hands-on, orientada a rol de Junior Penetration Tester. Es una buena puerta de entrada si todavía no tienes base sólida.*
+
+♦ Para ser empleable de verdad en el area ofensiva de manera directa
+
+  · OSCP / OSCP+
+  · CRTO
+  · GPEN
+
+♦ Para pasar filtros de RR.HH
+
+  · CEH
+  · OSCP
+  · GPEN
+
+♦ Veredicto claro
+
+La mejor para empezar ----> eJPT
+La más importante técnicamente y a nivel RR.HH ----> OSCP/OSCP+
+La mejor relación calidad/precio/utilidad ----> PNPT
+La mejor para AD/Red Team ----> CRTO
+La más demandada aunque sobrevalorada técnicamente (es un puto tipo test) ----> CEH
+La más corporativa / enterprise ----> GPEN
+La emergente con buen nivel técnico ----> HTB CPTS
+
+Si tu objetivo es trabajar en pentesting real en los próximos uno/dos años, yo no perdería tiempo en hacer una colección de logos. Haría esto: 
+	eJPT → PNPT y/o CPTS → OSCP
+
 >>> Top Ethical Hacking/Red Team certifications BY PATH <<<
 
 1. Pentesting Web
